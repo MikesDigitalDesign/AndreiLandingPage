@@ -55,7 +55,6 @@ header.backimg {
 }
 
 .btn-cta:hover {
-  color: red;
-  transform: scale(1.2);
+   transform: scale(1.2);
 }
 /* css */
