@@ -1,59 +1,59 @@
 body,
 html {
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
 
 header.backimg {
-    background-position: center;
-    background-image: url("pexels-photo.jpg");
-    background-size: cover;
-    height: 100%;
+  background-position: center;
+  background-image: url("pexels-photo.jpg");
+  background-size: cover;
+  height: 100%;
 }
 
 .ctaText {
-width: 1072px;
-height: 180px;
-left: -31px;
-top: 0px;
+  width: 1072px;
+  height: 180px;
+  left: -31px;
+  top: 0px;
 
-font-family: Sarpanch;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 60px;
-text-align: center;
-text-transform: uppercase;
+  font-family: Sarpanch;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;
 
-color: #FFFFFF;
+  color: #ffffff;
 }
 
 .ctaBackground {
-    background: rgba(24, 23, 24, 0.75);
-    border-radius: 230px;
+  background: rgba(24, 23, 24, 0.75);
+  border-radius: 230px;
 }
 
 /* Main button on CTA form landing page */
 .btn-cta {
-    /* Button Css */
-    margin-top: 150px;
-    background: #FFFFFF;
-    box-shadow: 0px 2px 2px rgba(156, 39, 176, 0.2);
-    border-radius: 30px;
-    width: 230px;
-    /* Button Text Css */
-    font-family: Sarpanch;
-    font-style: normal;
-    font-weight: bold;
-    line-height: normal;
-    font-size: 24px;
-    text-align: center;
-    text-transform: capitalize;
-    color: black;
-    /*Transition Effects */
-    transition: all 1s
+  /* Button Css */
+  margin-top: 150px;
+  background: #ffffff;
+  box-shadow: 0px 2px 2px rgba(156, 39, 176, 0.2);
+  border-radius: 30px;
+  width: 230px;
+  /* Button Text Css */
+  font-family: Sarpanch;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+  text-transform: capitalize;
+  color: black;
+  /*Transition Effects */
+  transition: all 1s;
 }
 
 .btn-cta:hover {
-    transform: scale(1.2);
+  transform: scale(1.2);
 }
