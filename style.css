@@ -6,7 +6,7 @@ html {
 
 header.backimg {
   background-position: center;
-  background-image: url("pexels-photo.jpg");
+  background-image: url("./assets/pexels-photo-min.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -55,6 +55,14 @@ header.backimg {
 }
 
 .btn-cta:hover {
-   transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.btn-mailchimp{
+  margin-top: 50px;
+  background:blue;
+  color: white;
+  width: auto;
+  font-family: Sarpanch;
 }
 /* css */
